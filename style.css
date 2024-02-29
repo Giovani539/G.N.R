@@ -1,1 +1,11 @@
-body {background-color: lavender;}
+:root{
+    --cor-de-fundo: #ffdf75;
+    --cor-do-texto: #000000;
+    }
+
+body {
+    background-color:var(--cor-de-fundo)}
+
+h1 {
+color: var(--cor-do-texto);
+}    
