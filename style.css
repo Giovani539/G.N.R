@@ -13,4 +13,6 @@ color: var(--cor-do-texto);
 
 header{
     display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
