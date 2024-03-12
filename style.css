@@ -1,31 +1,43 @@
 /* DG coxinhas */
-*{
+* {
     padding: 0;
     margin: 0;
 }
-:root{
+
+:root {
     --cor-de-fundo: #ffaad2;
     --cor-do-texto: #000000;
-    }
+}
 
 body {
-    background-color:var(--cor-de-fundo)}
+    background-color: var(--cor-de-fundo)
+}
 
 h1 {
-color: var(--cor-do-texto);
-}    
+    color: var(--cor-do-texto);
+}
 
-header{
+header {
     display: flex;
     justify-content: space-around;
-    align-items: center;}
-    
-    .logo{width: 10%;}
-    .coxinha-principal{width: 30%;}
+    align-items: center;
+}
 
-section{
+.logo {
+    width: 10%;
+}
+
+.coxinha-principal {
+    width: 30%;
+}
+
+section {
     display: flex;
     color: rgb(#000000));
     padding: 20px;
     background-color: #ffffff;
+}
+
+.hello-kitty {
+    display: flex;
 }
