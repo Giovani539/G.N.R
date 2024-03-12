@@ -21,7 +21,7 @@ header{
     align-items: center;}
     
     .logo{width: 10%;}
-    .coxinha-principal{width: 30%;}
+    .coxinha-principal{width: 30%;}{margin:0%}
 
 section{
     display: flex;
