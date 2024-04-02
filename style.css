@@ -48,10 +48,13 @@ section {
     display: flex;
 }
 
-.itens {
-    display: flex;
-    margin: 0 40px;
-    padding: 0 40px;
+.doces{ 
+    background-color: antiquewhite;
+}
+.Salgados{
+    background-color: antiquewhite;
+}
+.Criadores{
     background-color: antiquewhite;
 }
 
