@@ -65,8 +65,9 @@ section {
 .equipe{  
     display: grid;
     grid-template-columns:33% 33% 33%;
-  background-color: antiquewhite;
-  
+    background-color: antiquewhite;
+    border-radius:40px;
+    margin: 20px;
 }
 
 .foto-equipe{
