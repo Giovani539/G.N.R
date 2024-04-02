@@ -66,7 +66,7 @@ section {
     display: grid;
     grid-template-columns:33% 33% 33%;
   background-color: antiquewhite;
-  border-radius: 70px ;
+  
 }
 
 .foto-equipe{
@@ -76,5 +76,6 @@ section {
 .div-equipe{
     
     text-align: center;
+    border-radius: 70px ;
     
 }
