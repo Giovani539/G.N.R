@@ -73,5 +73,6 @@ section {
 
 .div-equipe{
     border: 45px solid;
-    text-align: center
+    text-align: center;
+    justify-content:center
 }
