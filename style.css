@@ -42,9 +42,13 @@ section {
 
 .hello-kitty {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
 }
 
 .itens {
+    display: flex;
     margin: 0 40px;
     padding: 0 40px;
     background-color: antiquewhite;
@@ -60,15 +64,14 @@ section {
 .equipe{  
     display: grid;
     grid-template-columns:33% 33% 33%;
-
+  
 }
 
 .foto-equipe{
-    align-items: center;
-    width: 95%;
+    width: 65%;
 }
 
 .div-equipe{
-    border: 2px solid;
+    border: 45px solid;
     text-align: center
 }
