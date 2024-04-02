@@ -56,3 +56,18 @@ section {
       font-weight: 400;
       font-style: normal;
     }
+
+.equipe{  
+    display: grid;
+    grid-template-columns:33% 33% 33%;
+
+}
+
+.foto-equipe{
+    width: 65%;
+}
+
+.div-equipe{
+    border: 2px solid;
+    text-align: center
+}
