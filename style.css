@@ -5,7 +5,7 @@
 }
 
 :root {
-    --cor-de-fundo: #ffaad2;
+    --cor-de-fundo: #ffffff;
     --cor-do-texto: #000000;
 }
 
@@ -21,6 +21,7 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: #ff91b2;
 }
 
 .logo {
@@ -65,7 +66,7 @@ section {
     display: grid;
     grid-template-columns:33% 33% 33%;
   background-color: antiquewhite;
-  border-radius: 40px; 
+  border-radius:45px ;
 }
 
 .foto-equipe{
