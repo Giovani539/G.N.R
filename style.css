@@ -79,12 +79,12 @@ section {
 }
 #doces{  
     display: grid;
-    grid-template-columns:33% 33% 33%;
+    grid-template-columns:25% 25% 50%;
     background-color: #ff91b2;
 }
 #salgados{  
     display: grid;
-    grid-template-columns:33% 33% 33%;
+    grid-template-columns:25% 25% 50%;
     background-color: #ffd5b2;
 }
 
