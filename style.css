@@ -62,13 +62,13 @@ section {
       font-style: normal;
     }
 
-#equipe{  
+#salgados{  
     display: grid;
     grid-template-columns:33% 33% 33%;
     background-color: antiquewhite;
 
 }
-#equipe{  
+#doces{  
     display: grid;
     grid-template-columns:33% 33% 33%;
     background-color: antiquewhite;
