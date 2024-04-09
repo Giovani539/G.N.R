@@ -62,23 +62,22 @@ section {
       font-style: normal;
     }
 
-#salgados{  
+#equipe{  
     display: grid;
     grid-template-columns:33% 33% 33%;
     background-color: antiquewhite;
-
+    border-radius: 40px;
+    margin: 10%;
 }
 #doces{  
     display: grid;
     grid-template-columns:33% 33% 33%;
     background-color: antiquewhite;
 }
-#equipe{  
+#salgados{  
     display: grid;
     grid-template-columns:33% 33% 33%;
     background-color: antiquewhite;
-    border-radius: 40px;
-    margin: 25%;
 }
 
 .foto-equipe{
