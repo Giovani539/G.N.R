@@ -18,6 +18,7 @@ h1 {
 }
 
 .nome{
+
     font-size: 15px;
 }
 header {
@@ -51,6 +52,7 @@ section {
 }
 
 .doces{ 
+
     padding: 14px;
     background-color: antiquewhite;
     width: 226px;
@@ -63,16 +65,16 @@ section {
 .titulo{
       font-family: "Oswald", sans-serif;
       font-optical-sizing: auto;
-      font-weight: 400;
+      font-weight: 400px;
       font-style: normal;
     }
 
 #equipe{  
     display: grid;
-    grid-template-columns:33% 33% 33%;
+    grid-template-columns:33 33 33;
     background-color: antiquewhite;
     border-radius: 40px;
-    margin: 5%;
+    margin: 5px;
 }
 #doces{  
     display: grid;
@@ -112,4 +114,4 @@ border: solid 1px var(--cor-do-texto);
 header a {
 color: #000000;
 text-decoration: none;
-}
+} 
