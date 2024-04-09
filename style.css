@@ -67,7 +67,7 @@ section {
     grid-template-columns:33% 33% 33%;
     background-color: antiquewhite;
     border-radius: 40px;
-    margin: 10%;
+    margin: 5%;
 }
 #doces{  
     display: grid;
