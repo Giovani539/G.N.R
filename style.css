@@ -72,7 +72,7 @@ section {
 #doces{  
     display: grid;
     grid-template-columns:33% 33% 33%;
-    background-color: antiquewhite;
+    background-color: #ff91b2;
 }
 #salgados{  
     display: grid;
