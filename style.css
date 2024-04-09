@@ -84,7 +84,7 @@ section {
 }
 #salgados{  
     display: grid;
-    grid-template-columns:25% 25% 50%;
+    grid-template-columns:30% 30% 40%;
     background-color: #ffd5b2;
 }
 
