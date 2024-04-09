@@ -103,3 +103,8 @@ font-size: 25px;
 width: 1900px;
 border: solid 1px var(--cor-do-texto);
 }
+
+header a {
+color: #000000;
+text-decoration: none;
+}
