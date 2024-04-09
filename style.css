@@ -70,11 +70,12 @@ section {
     }
 
 #equipe{  
+
     display: grid;
     grid-template-columns:33 33 33;
     background-color: #ffd5b2;
-    border-radius: 40px;
-    margin: 5px;
+    border-radius: 40%;
+    margin: 5%;
 }
 #doces{  
     display: grid;
