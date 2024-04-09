@@ -119,4 +119,5 @@ text-decoration: none;
 
 .nome-das-coxinhas{
     display: flex;
+    justify-content: right;
 }
