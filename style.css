@@ -32,6 +32,7 @@ header {
     width: 30%;
     border-radius: 30px;
     border: 10px solid white;
+    margin-inline-start: auto;
 }
 
 section {
