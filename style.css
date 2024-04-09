@@ -126,3 +126,7 @@ text-decoration: none;
     width: 355px;
     border-radius: 10px;
 }
+
+.local-nomes{
+    display: flex;
+}
