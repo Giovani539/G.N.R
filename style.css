@@ -121,3 +121,8 @@ text-decoration: none;
     display: flex;
     justify-content: right;
 }
+
+.combo1{ 
+    width: 355px;
+    border-radius: 10px;
+}
