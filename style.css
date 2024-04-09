@@ -84,7 +84,7 @@ section {
 
 .rodape{
 background-color: #ff91b2;
-display: flex;
+display: block;
 font-size: 25px;
 
 }
