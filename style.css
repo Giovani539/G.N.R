@@ -43,10 +43,9 @@ section {
 }
 
 .hello-kitty {
-    display: flex;
+    display: grid;
     flex-direction: column;
     justify-content: center;
-    display: flex;
 }
 
 .doces{ 
