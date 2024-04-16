@@ -120,6 +120,7 @@ text-decoration: none;
 .nome-das-coxinhas{
     display: flex;
     justify-content: right;
+    font-size: 23px;
 }
 
 .combo1{ 
@@ -135,4 +136,8 @@ text-decoration: none;
     display: flex;
     padding: 20px;
     
+}
+
+.descricao{
+    font-size: 26px;
 }
