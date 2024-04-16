@@ -129,5 +129,6 @@ text-decoration: none;
 
 .local-nomes{
     display: flex;
+    padding: 20px;
     
 }
