@@ -127,6 +127,10 @@ text-decoration: none;
     border-radius: 10px;
 }
 
+.combo2{
+    width: 340px;
+    border-radius: 10px;
+}
 .local-nomes{
     display: flex;
     padding: 20px;
