@@ -139,5 +139,8 @@ text-decoration: none;
 }
 
 .descricao{
-    font-size: 26px;
+    font-size: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
