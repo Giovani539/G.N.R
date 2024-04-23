@@ -17,9 +17,10 @@ h1 {
     color: var(--cor-do-texto);
 }
 
-.nome{
+.nome {
     font-size: 43px;
 }
+
 header {
     display: flex;
     justify-content: space-around;
@@ -50,11 +51,11 @@ section {
     align-items: center;
 }
 
-.doces{ 
+.doces {
 
     padding: 14px;
     background-color: #ffd5b2;
-    width:  226px;
+    width: 226px;
     font-size: 25px;
     margin: 0 29px;
     text-align: center;
@@ -62,84 +63,88 @@ section {
 }
 
 
-.titulo{
-      font-family: "Oswald", sans-serif;
-      font-optical-sizing: auto;
-      font-weight: 400px;
-      font-style: normal;
-    }
+.titulo {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+}
 
-#equipe{  
+#equipe {
 
     display: grid;
-    grid-template-columns:33% 33% 33%;
+    grid-template-columns: 33% 33% 33%;
     background-color: #ffd5b2;
     border-radius: 40px;
     margin: 5%;
 }
-#doces{  
+
+#doces {
     display: grid;
-    grid-template-columns:50% 50%;
+    grid-template-columns: 50% 50%;
     background-color: #ff91b2;
 }
-#salgados{  
+
+#salgados {
     display: grid;
-    grid-template-columns:30% 30% 40%;
+    grid-template-columns: 30% 30% 40%;
     background-color: #ffd5b2;
 }
 
-.foto-equipe{
+.foto-equipe {
     width: 226px;
     border-radius: 10px;
 }
 
-.div-equipe{
-    
+.div-equipe {
+
     text-align: center;
-    border-radius: 70px ;
-    
-}
-
-.rodape{
-background-color: #ff91b2;
-display: block;
-font-size: 25px;
+    border-radius: 70px;
 
 }
 
-.linha{
-width: 1901px;
-border: solid 1px var(--cor-do-texto);
+.rodape {
+    background-color: #ff91b2;
+    display: grid;
+    grid-template-columns: 62% 38%;
+    font-size: 25px;
+    align-items: center;
+
+}
+
+.linha {
+    border: solid 1px var(--cor-do-texto);
 }
 
 header a {
-color: #000000;
-text-decoration: none;
-} 
+    color: #000000;
+    text-decoration: none;
+}
 
-.nome-das-coxinhas{
+.nome-das-coxinhas {
     display: flex;
     justify-content: right;
     font-size: 23px;
 }
 
-.combo1{ 
+.combo1 {
     width: 355px;
     border-radius: 10px;
 }
 
-.combo2{
+.combo2 {
     width: 400px;
     border-radius: 10px;
 }
-.local-nomes{
+
+.local-nomes {
     display: flex;
     padding: 20px;
-    font-size: 23px; 
+    font-size: 23px;
 }
 
 
-.descricao{
+.descricao {
     font-size: 45px;
     display: flex;
     flex-direction: column;
@@ -147,10 +152,10 @@ text-decoration: none;
     margin-left: auto;
 }
 
-footer
 
-.item{
+
+.item {
     display: grid;
-    grid-template-columns:75% 25%;
+    grid-template-columns: 75% 25%;
 
 }
