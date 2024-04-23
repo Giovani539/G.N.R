@@ -160,3 +160,18 @@ header a {
     grid-template-columns: 75% 25%;
 
 }
+
+.logos {
+    width: 11%;
+    border-radius: 10px;
+}
+
+.logos2 {
+    width: 10%;
+    border-radius: 10px;
+}
+
+.foto-item {
+    width: 226px;
+    border-radius: 10px;
+}
