@@ -147,6 +147,8 @@ text-decoration: none;
     margin-left: auto;
 }
 
+footer
+
 .item{
     display: grid;
     grid-template-columns:75% 25%;
