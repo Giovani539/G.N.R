@@ -141,6 +141,7 @@ header a {
     display: flex;
     padding: 20px;
     font-size: 23px;
+    align-items: center;
 }
 
 
