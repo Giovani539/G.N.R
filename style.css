@@ -178,7 +178,7 @@ header a {
 }
 
 .logos2 {
-    margin: 0 15%;
+    margin: 0 12%;
     padding: 6%;
     display: flex;
     align-items: center;
@@ -195,3 +195,6 @@ header a {
     border-radius: 10px;
 }
 
+.nome{
+    font-size: 10%;
+}
