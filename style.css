@@ -92,7 +92,7 @@ section {
 }
 
 .foto-equipe {
-    width: 226px;
+    width: 50%;
     border-radius: 10px;
 }
 
@@ -173,5 +173,10 @@ header a {
 
 .foto-item {
     width: 226px;
+    border-radius: 10px;
+}
+
+.icon{
+    width: 11%;
     border-radius: 10px;
 }
