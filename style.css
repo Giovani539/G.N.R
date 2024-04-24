@@ -162,8 +162,10 @@ header a {
 }
 
 .logos {
-    width: 11%;
-    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    font-size: 23px;
 }
 
 .logos2 {
@@ -177,6 +179,6 @@ header a {
 }
 
 .icon{
-    width: 11%;
+    width: 84%;
     border-radius: 10px;
 }
