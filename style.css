@@ -165,7 +165,7 @@ header a {
     padding: 20px;
     display: flex;
     align-items: center;
-    font-size: 23%;
+    width: 15%;
 }
 
 .logos2 {
