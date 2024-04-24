@@ -169,8 +169,10 @@ header a {
 }
 
 .logos2 {
+    padding: 20px;
+    display: flex;
+    align-items: center;
     width: 10%;
-    border-radius: 10px;
 }
 
 .foto-item {
