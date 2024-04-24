@@ -185,3 +185,11 @@ header a {
     width: 84%;
     border-radius: 10px;
 }
+
+.nome-rua{
+    width: 5%;
+}
+
+.numero{
+    width: 5%;
+}
