@@ -92,8 +92,14 @@ section {
     background-color: #ffd5b2;
 }
 
+
 .foto-equipe {
     width: 50%;
+    border-radius: 10px;
+}
+
+.foto-doce {
+    width: 35%;
     border-radius: 10px;
 }
 
@@ -126,6 +132,7 @@ header a {
     display: flex;
     justify-content: right;
     font-size: 23px;
+    padding: 0 2%;
 }
 
 .combo1 {
