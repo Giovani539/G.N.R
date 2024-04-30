@@ -118,7 +118,7 @@ section {
 .rodape {
     background-color: #ff91b2;
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 60% 40%;
     font-size: 25px;
     align-items: center;
 
