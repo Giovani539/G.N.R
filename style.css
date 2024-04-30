@@ -179,7 +179,6 @@ header a {
     padding: 6%;
     display: flex;
     align-items: center;
-    width: 15%;
 }
 
 .logos2 {
@@ -187,7 +186,6 @@ header a {
     padding: 6%;
     display: flex;
     align-items: center;
-    width: 10%;
 }
 
 .foto-item {
@@ -196,10 +194,14 @@ header a {
 }
 
 .icon{
-    width: 84%;
+    width: 15%;
     border-radius: 10px;
 }
 
+.icon2{
+    width: 20%;
+    border-radius: 10px;
+}
 .nome-icon{
 
     font-size: 100%;
