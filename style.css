@@ -18,7 +18,7 @@ h1 {
 }
 
 .nome {
-    font-size: 43px;
+    font-size: 385%;
 }
 
 header {
@@ -74,7 +74,7 @@ section {
 #equipe {
 
     display: grid;
-    grid-template-columns: 33% 33% 33%;
+    grid-template-columns: 50% 50%;
     background-color: #ffd5b2;
     border-radius: 40px;
     margin: 5%;
