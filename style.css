@@ -201,6 +201,7 @@ header a {
 .icon2{
     width: 15%;
     border-radius: 10px;
+    margin: 0 -2%;
 }
 .nome-icon{
 
@@ -208,7 +209,6 @@ header a {
 }
 
 .nome-icon2{
-    margin: 0 -2%;
     font-size: 100%;
     padding: 0 3%;
 }
